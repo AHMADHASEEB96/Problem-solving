@@ -1,0 +1,9 @@
+body {
+    height: 100vh;
+    background-color: red;
+}
+.page-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
